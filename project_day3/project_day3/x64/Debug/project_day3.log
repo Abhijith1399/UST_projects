@@ -1,0 +1,8 @@
+﻿  file1.h
+  file1.cpp
+  file2.cpp
+  file3.cpp
+  Generating Code...
+project_day3\x64\Debug\file1.obj : warning LNK4042: object specified more than once; extras ignored
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Administrator\Desktop\UST_projects\project_day3\x64\Debug\project_day3.exe : fatal error LNK1120: 1 unresolved externals

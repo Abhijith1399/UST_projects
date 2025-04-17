@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|solutionrelative:projectHello\\src\\file1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|solutionrelative:projectHello\\src\\file2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68D6EFD2-AB90-49CB-94D9-B53C97E3517F}|project_day3.vcxproj|solutionrelative:projectHello\\src\\file3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file1.cpp",
+              "RelativeDocumentMoniker": "projectHello\\src\\file1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file1.cpp",
+              "RelativeToolTip": "projectHello\\src\\file1.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T14:42:40.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file3.cpp",
+              "RelativeDocumentMoniker": "projectHello\\src\\file3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file3.cpp",
+              "RelativeToolTip": "projectHello\\src\\file3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T13:56:56.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file2.cpp",
+              "RelativeDocumentMoniker": "projectHello\\src\\file2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\UST_projects\\project_day3\\projectHello\\src\\file2.cpp",
+              "RelativeToolTip": "projectHello\\src\\file2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T13:55:55.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
